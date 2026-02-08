@@ -1,1 +1,1 @@
-The main page of website is :- "Home.html"
+Features include hyperlinks, slideshow, and forms.
